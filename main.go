@@ -84,40 +84,7 @@ func ListSave() {
 }
 
 func main() {
-
-	// MakeRefreshToken()
-	// _token, err := dbTokenControl.Active()
-	// checkErr(err)
-
-	// token := apiTokenControl.Token{
-	// 	Access_token:  _token.Access_token,
-	// 	Token_type:    _token.Token_type,
-	// 	Expires_in:    _token.Expires_in,
-	// 	Scope:         _token.Scope,
-	// 	User_id:       _token.User_id,
-	// 	Refresh_token: _token.Refresh_token,
-	// }
-	// 	itemId := "MLB2750276798"
-	// 	items, err := GetItemsDetails(itemId)
-
-	// //	checkErr(err)
-	//	itens, err := apiTokenControl.Token.GetProductItemsIds(token)
-	// [MLB2767979721 MLB2750258500 MLB2761143241 MLB2750276798]
-
-	//fmt.Println(items.Sale_terms)
-
-	//Limpo todos os dados, pois não tem regra de negócio de update
-	//dbTokenControl.TruncateAllItems()
-
-	//ListSave()
-	// MakeRefreshToken()
-	// _token, err := dbTokenControl.Active()
-	// checkErr(err)
-
-	//Limpo todos os dados, pois não tem regra de negócio de update
-	//dbTokenControl.TruncateAllItems()
-
-	//fmt.Println(dbTokenControl.MakeSelectStatement("products"))
+ 
 	dbTokenControl.TruncateAllItems()
 	MakeRefreshToken()
 	ListSave()
