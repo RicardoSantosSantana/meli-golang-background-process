@@ -1,6 +1,6 @@
-github.com/RicardoSantosSantana/apiTokenControl v0.0.0-20220817202716-ffb670b0c0e7 h1:+gPOMp7EMoiceUwy3/74pNguzkoIZZRWmDoV3mJlz+c=
-github.com/RicardoSantosSantana/apiTokenControl v0.0.0-20220817202716-ffb670b0c0e7/go.mod h1:A67UHxhBeSPEBtFu08ZH4D7D8RkgT5b/XXGpWEvN4fI=
-github.com/RicardoSantosSantana/dbTokenControl v0.0.0-20220818000706-ca2ae47858c1 h1:18ep+yYV3D80foFEGFYsjkOvyVd1ww87ZhC3Vyqe4ko=
-github.com/RicardoSantosSantana/dbTokenControl v0.0.0-20220818000706-ca2ae47858c1/go.mod h1:oaGj4OcHtrf3B8BrxqUC8aIdEmTMT/zvoG/ofTxWYvI=
+github.com/RicardoSantosSantana/apiTokenControl v0.0.0-20220917115221-1cb09f6d33c4 h1:jG9be2dHvSpZ0WzazUc8Mo9h+N1nu75O8EF4hgk+4oo=
+github.com/RicardoSantosSantana/apiTokenControl v0.0.0-20220917115221-1cb09f6d33c4/go.mod h1:A67UHxhBeSPEBtFu08ZH4D7D8RkgT5b/XXGpWEvN4fI=
+github.com/RicardoSantosSantana/dbTokenControl v0.0.0-20220827202204-0056d39c5a97 h1:keu0ztgnr8nSRpPJeGT2qd3uZUG25FQrZ4gZjOrlwHc=
+github.com/RicardoSantosSantana/dbTokenControl v0.0.0-20220827202204-0056d39c5a97/go.mod h1:oaGj4OcHtrf3B8BrxqUC8aIdEmTMT/zvoG/ofTxWYvI=
 github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
 github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=

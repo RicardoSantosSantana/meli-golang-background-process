@@ -1,3 +1,6 @@
+//go:build !menu
+// +build !menu
+
 package main
 
 import (

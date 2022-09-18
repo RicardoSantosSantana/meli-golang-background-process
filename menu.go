@@ -1,3 +1,6 @@
+//go:build menu
+// +build menu
+
 package main
 
 import (
@@ -77,6 +80,11 @@ func listProduct() {
 	fmt.Println("Count: ", len(ids))
 	fmt.Println("List: ", ids)
 }
+
+func main(){
+	Menu();	
+}
+
 func Menu() {
 
 	clear()
