@@ -1,11 +1,7 @@
-//go:build !menu
-// +build !menu
-
 package main
 
 import (
 	"encoding/json"
-	"fmt"
 
 	"github.com/RicardoSantosSantana/apiTokenControl"
 	"github.com/RicardoSantosSantana/dbTokenControl"
@@ -86,11 +82,3 @@ func ListSave() {
 	}
 }
 
-func main() {
- 
-	dbTokenControl.TruncateAllItems()
-	MakeRefreshToken()
-	ListSave()
-
-	fmt.Println("Fim do processo")
-}
